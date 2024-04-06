@@ -1,0 +1,19 @@
+{
+  "name": "w7d1-after-class",
+  "version": "1.0.0",
+  "description": "extra credit project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okrayum/jtc-w7d1-after-class.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okrayum/jtc-w7d1-after-class/issues"
+  },
+  "homepage": "https://github.com/okrayum/jtc-w7d1-after-class#readme"
+}
