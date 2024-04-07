@@ -2,9 +2,12 @@
   "name": "w7d1-after-class",
   "version": "1.0.0",
   "description": "extra credit project",
-  "main": "index.js",
+  "main": "messages-api.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start1": "nodemon messages-api.js",
+    "start2": "nodemon sequelize-rest.js"
+
   },
   "repository": {
     "type": "git",
@@ -15,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/okrayum/jtc-w7d1-after-class/issues"
   },
-  "homepage": "https://github.com/okrayum/jtc-w7d1-after-class#readme"
+  "homepage": "https://github.com/okrayum/jtc-w7d1-after-class#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0",
+    "sequelize": "^5.8.6"
+  },
+  "devDependencies": {
+    "sqlite3": "^5.1.7"
+  }
 }

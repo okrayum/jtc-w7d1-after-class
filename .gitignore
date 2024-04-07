@@ -14,4 +14,3 @@ npm-debug.log
 # Ignore package-lock.json file
 package-lock.json
 
-# Ignore any other files or directories that you want to exclude from version control
