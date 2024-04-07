@@ -9,7 +9,7 @@ You will work on building two separate components: an Express API for handling m
 ## Getting started
 
 1. Clone the repo on your local machine.
-2. After cloning the repo cd to the directory `W7D1-After-Class`  and run `npm install` to get the necessary dependencies.
+2. After cloning the repo cd to the directory `jtc-w7d1-after-class`  and run `npm install` to get the necessary dependencies.
 
 ### Additional Information
 
